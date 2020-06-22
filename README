@@ -1,0 +1,10 @@
+# Laatste php-fmp  versie
+
+### Bijzonderheden:
+
+Alpine-linux
+
+TZ=Europe/Amsterdam
+
+docker-php-ext-install mysqli opcache
+Met standaard config file voor opcache
